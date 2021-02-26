@@ -1,3 +1,3 @@
 # hello-world
 Lets do this.
-Fuck you too
+Be positive at all times
